@@ -1,2 +1,11 @@
-# instacash-ico
-INSTACASH ICO Smart Contract
+# INSTACASH ICO Smart Contract
+
+## Common
+
+This is an implementation of the Ethereum ERC20 smart-contract is used by project INSTACASH
+
+<b>Plugins / 3rd party tools:</b>
+
+[https://github.com/OpenZeppelin/zeppelin-solidity/](https://github.com/OpenZeppelin/zeppelin-solidity/)
+
+[https://github.com/TokenMarketNet/ico](https://github.com/TokenMarketNet/ico)
